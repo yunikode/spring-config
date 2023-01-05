@@ -1,0 +1,11 @@
+debug: false
+logging:
+  level:
+    web: error
+
+spring:
+  application:
+    name: tariffcalculator-service
+  devtools:
+    livereload:
+      port: 35731
